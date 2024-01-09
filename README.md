@@ -1,11 +1,5 @@
 # Roboy 0.1
 
-<style>
-  html  {
-    textalign: center;
-    background-color: #ffffff;
-  }
-</style>
 
 <p>Roboy is a gaming console built in roblox for the croatian OS Hugo Badalic School Jam 2023</p>
 
