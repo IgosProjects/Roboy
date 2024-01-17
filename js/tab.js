@@ -33,3 +33,9 @@ function showTabFromHash() {
         });
     }
 }
+
+ // Use JavaScript to hide noscript content when JavaScript is allowed
+ document.addEventListener("DOMContentLoaded", function () {
+    var noscriptElement = document.querySelector("noscript");
+    noscriptElement.style.display = "none";
+});
